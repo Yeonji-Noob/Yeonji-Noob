@@ -6,7 +6,11 @@
   <h3>🐣 About me 🐣</h3>
   (일단은)프론트엔드 개발자를 목표로 하고 있습니다.<br>
   호기심이 많아서 이것저것 새로운 것을 해보고 도전하는 것을 즐깁니다.
+  </br>
 
+  
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeonji-noob&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi"/>  
 
 
   <h3>🌼🌼 Study 🌼🌼</h3>
@@ -39,9 +43,9 @@
   
   
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeonji-noob&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi"/>
-  
-  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhcp3885)](https://solved.ac/rhcp3885/)
+  </br>
+   
   ###
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yeonji-Noob&bg_color=000000&color=b4ff94&line=4400ff&point=fff94d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
