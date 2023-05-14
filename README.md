@@ -3,9 +3,15 @@
 
   <h1>👨🏻‍💻</h1>
   
+
+  
   <h3>🐣 About me 🐣</h3>
-  (일단은)프론트엔드 개발자를 목표로 하고 있습니다.<br>
-  호기심이 많아서 이것저것 새로운 것을 해보고 도전하는 것을 즐깁니다.
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=13F799&width=375&lines=%3Cp%3EI'm+studying+front-end+development%3C%2Fp%3E)](https://git.io/typing-svg)
+  
+  호기심이 많아서 이것저것 새로운 것을 해보고 
+  </br>
+  도전하는 것을 즐깁니다.
   </br>
 
   
