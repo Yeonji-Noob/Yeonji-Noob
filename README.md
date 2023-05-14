@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <h1>👨🏻‍💻</h1>
+  ![undertale_text_box](https://github.com/Yeonji-Noob/Yeonji-Noob/assets/121682565/75a03946-584d-4f3f-b0b7-b6cab3519881)
   
 
   
