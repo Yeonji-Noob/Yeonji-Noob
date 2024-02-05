@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </p>
 
 
@@ -53,9 +52,7 @@
   </br>
    
   ###
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeonji-Noob&bg_color=000000&color=b4ff94&line=4400ff&point=fff94d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-  
+
 
 </div>
 
