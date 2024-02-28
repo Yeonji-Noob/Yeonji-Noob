@@ -15,8 +15,7 @@
   </br>
 
   
-  </br>
-  <img src="https://github-readme-stats-one-delta-29.vercel.app/api/top-langs?username=Yeonji-noob&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi"/>  
+  </br> 
   
 
   <h3>🌼🌼 Study 🌼🌼</h3>
